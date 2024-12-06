@@ -11,7 +11,7 @@
 - 💡 Hobbies include Math competitions, hackathons, and innovative tech projects.
 - 💬 Ask me about: Software development, data structures, and teaching coding concepts!!
 
-- 📫 How to reach me: ayekyawtzin27@gmail.com | linkedin.com/in/ayekyawtzin
+- 📫 How to reach me: ayekyawtzin27@gmail.com | [linkedin.com/in/ayekyawtzin](https://www.linkedin.com/in/ayekyawtzin/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have a background in architecture, which inspires my creative approach to tech solutions!
 
