@@ -19,13 +19,13 @@
 
 - 👨‍💻 Programming Languages: Python, C++, C, HTML, CSS
 - 🛠️ Tools & Platforms: Git, GitHub, Visual Studio Code, Replit, Figma, GDB debugger
-- 🗝️ Key Expertise: Data structures, algorithm design, debugging, and cybersecurity
+- 🗝️ Key Expertise: Data Structures, Algorithm Design, Debugging, and Cybersecurity
 
 ## 🌟 Highlights
 
 - Check out my featured projects:
-- 💸 Level UP Gen Z!: Financial literacy app built in Python
+  - 💸 Level UP Gen Z!: Financial literacy app built in Python
 
 - Soon to be uploaded:
-- 🔐 Substitution Cipher Decrypter: Cryptographic key optimization using C++
-- 🐱 Random Cat Face Generator: Creative algorithm design with Python
+  -  🔐 Substitution Cipher Decrypter: Cryptographic key optimization using C++
+  - 🐱 Random Cat Face Generator: Creative algorithm design with Python
