@@ -2,8 +2,8 @@
 
 ## 🌟 About Me
 
-- 🎓 I'm a Second-year CS student at UIC.
-- 👨‍🏫 I work as an Undergraduate Teaching Assistant for CS111(Python), CS151(Discrete Math), and currently CS261(Machine Organization)!
+- 🎓 I'm in my senior-year at UIC, majoring in computer science.
+- 👨‍🏫 I work as an Undergraduate Teaching Assistant for CS111(Python), CS151(Discrete Math), and currently my second semester with CS261(Machine Organization)!
 - 🤔 I am currently interested in backend development technologies such as databases, cloud services, and server-side programming, alongside a growing interest in cybersecurity areas like network security, ethical hacking, and threat analysis.
 - 🔭 I’m currently learning x86 Assembly, advanced cybersecurity techniques, secure coding practices, and systems programming.
 - 👯 I’m looking to collaborate on Open-source projects or cybersecurity challenges that focus on vulnerability analysis and secure development.
